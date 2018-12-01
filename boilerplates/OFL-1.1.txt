@@ -1,4 +1,4 @@
-Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
+Copyright (c) s!<dates>!yyyy!, s!<Copyright Holder>!author! (s!<URL|email>!!),
 
 with Reserved Font Name <Reserved Font Name>. This Font Software is licensed
 under the SIL Open Font License, Version 1.1.
