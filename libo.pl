@@ -5,11 +5,12 @@ use strict;
 use warnings;
 use utf8;
 
+use FindBin;
 use Pod::Usage qw/pod2usage/;
 use File::Basename qw/basename/;
 
 my $VERSION = '1.0.0';
-my $LIC_TXT_DIR_PATH= './boilerplates';
+my $LIC_TXT_DIR_PATH = "$FindBin::RealBin/boilerplates";
 
 # treat arguments
 my $author = `git config user.name` || '';
