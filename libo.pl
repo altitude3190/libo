@@ -1,5 +1,6 @@
-#!/usr/bin/env perl
-
+#!/usr/bin/perl
+# I want to use /usr/bin/env perl, but I found out that it didn't run with perl >= 5.26.
+# So, it runs with system perl whose version is probably 5.18.
 use strict;
 use warnings;
 use utf8;
